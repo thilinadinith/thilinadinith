@@ -7,6 +7,6 @@ Experienced Senior Full-stack Software Engineer with a demonstrated history of w
 <br>
 
 
-[![Thilina's GitHub stats](https://github-readme-stats.vercel.app/api?username=thilinadinith)](https://github.com/thilinadinith/github-readme-stats)
+![Thilina's GitHub stats](https://github-readme-stats.vercel.app/api?username=thilinadinith&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thilinadinith&show_icons=true&theme=buefy&layout=compact&cache_seconds=1800&langs_count=8)](https://github.com/thilinadinith)
 <br>
